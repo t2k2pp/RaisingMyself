@@ -37,6 +37,6 @@
 ## 教育
 ### 書籍
 
- 1. 一生懸命中級になるビジネスパーソンの教育指導1 （[Markdown](https://github.com/t2k2pp/RaisingMyself/blob/main/teaching/01/business-education-book.md)）
- 1. 一生懸命中級になるビジネスパーソンの教育指導2 （[Markdown](https://github.com/t2k2pp/RaisingMyself/blob/main/teaching/02/business-education-book2.md)）
+ 1. 一生懸命中級になるビジネスパーソンの教育指導1 （[Markdown](https://github.com/t2k2pp/RaisingMyself/blob/main/teaching/01/business-education-book.md) / [PDF](https://github.com/t2k2pp/RaisingMyself/blob/main/teaching/01/business-education-book.pdf)）
+ 1. 一生懸命中級になるビジネスパーソンの教育指導2 （[Markdown](https://github.com/t2k2pp/RaisingMyself/blob/main/teaching/02/business-education-book2.md) / [PDF](https://github.com/t2k2pp/RaisingMyself/blob/main/teaching/02/business-education-book2.pdf)）
 
